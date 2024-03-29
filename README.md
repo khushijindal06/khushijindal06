@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, Khushi Jindal
+
+🌱 I’m currently learning Artificial Intelligence, Machine Learning, Deep Learning
 
 <!--
 **khushijindal06/khushijindal06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
